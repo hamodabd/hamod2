@@ -1,2 +1,2 @@
-setTimeout('document.getElementById("upd").onclick();',200);
+setTimeout('document.getElementById("upd").onclick();',500);
 
