@@ -1,3 +1,3 @@
 function run(){
-setTimeout('document.getElementById("upd1").onclick();',1000);
+setTimeout('document.getElementById("upd1").onclick();',5000);
         }
