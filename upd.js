@@ -1,1 +1,3 @@
- setTimeout('document.getElementById("upd1").onclick();',2000);
+          ons.ready(function(){
+      setTimeout('document.getElementById("upd").onclick();',2000);
+          }
